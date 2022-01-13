@@ -1,8 +1,8 @@
 #### SWE eng notes
 
-> https://www.geeksforgeeks.org/tag/google/
+- https://www.geeksforgeeks.org/tag/google/
 
-> data structures
+## data structures
 ```
 hash tables
 arrays
@@ -12,25 +12,25 @@ trees
 stacks
 linked list
 ```
-> algos
+## algos
 ```space and time complexity
 complexity
 improve complexity
 ```
-> system design
+## system design
 ```
 basic search
 lb, fw
 ```
-> OOP
+## OOP
 ```
 cpp java
 ```
-> APIS
+## APIS
 
-> OOD
+## OOD
 
-> code testing
+## code testing
 ```
 unit testing
 load
