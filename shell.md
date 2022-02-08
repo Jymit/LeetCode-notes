@@ -23,8 +23,8 @@ Line 8
 Line 9
 Line 10
 ```
-sed -n "10 p" file.txt
+`sed -n "10 p" file.txt`
 
-
+`awk "NR==10" file.txt` uses more memory and takes some ms more than the sed example
 
 > 
